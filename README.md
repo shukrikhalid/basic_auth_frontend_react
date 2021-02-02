@@ -1,4 +1,4 @@
-# BASIC AUTH FRONEND REACT Simple project
+# BASIC AUTH FRONTEND REACT Simple project
 
 ### Configuration
 Config based enviroment setup
